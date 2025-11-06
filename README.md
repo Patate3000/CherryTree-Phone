@@ -8,7 +8,7 @@
 > **Date:** May 2025
 > **Status:** 🚧 In Development
 
-![Alt text](images/screenshot.png)
+![Alt text](screenshot.png)
 
 ---
 
