@@ -1,37 +1,74 @@
-CherryTree Phone – Bringing CherryTree to Android
+# 🍒 CherryTree Phone – Bringing CherryTree to Android
 
-May 2025
+![GitHub last commit](https://img.shields.io/github/last-commit/your-username/CherryTreePhone?color=green)
+![GitHub repo size](https://img.shields.io/github/repo-size/your-username/CherryTreePhone)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Platform](https://img.shields.io/badge/platform-Android-lightgrey)
 
-For several years, I’ve been using CherryTree, a free and open-source note-taking software for desktop. It’s an incredibly practical tool for organizing notes in a tree structure, making information easy to manage and navigate.
+> **Date:** May 2025
+> **Status:** 🚧 In Development
 
-However, no equivalent application existed for mobile devices — so I decided to develop my own version from scratch.
+---
 
-🧠 Project Overview
+## 🧠 Project Overview
 
-CherryTree Phone is an Android adaptation of the original CherryTree app, designed to allow users to import and view CherryTree (.ctb) files directly on their phones.
+**CherryTree Phone** is an Android adaptation of the original **CherryTree** app — a popular open-source note-taking software for desktop.
 
-The project was built using:
+It allows users to **import and view CherryTree (.ctb) files directly on their phones**, bringing the same hierarchical note structure to mobile.
 
-HTML and JavaScript for the user interface
+### 🛠️ Built With
 
-Android Studio for app integration and packaging
+* **HTML** & **JavaScript** — for the user interface
+* **Android Studio** — for integration and packaging
+* **AI assistance** — for development support
+* A mix of **curiosity, persistence, and creativity**
 
-AI assistance for development optimization
+---
 
-A mix of curiosity, persistence, and creativity
+## ⚙️ Key Features
 
-⚙️ Key Features
+✅ Import and open `.ctb` files created with the desktop version of CherryTree
+✅ View notes in a hierarchical structure
+✅ Clean and mobile-friendly interface
+✅ Runs natively as an **APK** on Android
 
-Import and open .ctb files created on the desktop version of CherryTree
+---
 
-View notes in a hierarchical structure
+## 🚀 Development Insights
 
-Simple and clean interface optimized for mobile screens
+The main challenge was configuring **Android Studio** to ensure seamless interaction between the **HTML/JS front-end** and the Android system.
 
-Runs natively as an APK on Android devices
+After multiple iterations and hours of debugging, the app finally came to life — successfully bringing the **CherryTree experience to Android** for the first time.
 
-🚀 Development Insights
+---
 
-The most challenging part of the development process was configuring all required files in Android Studio to ensure proper interaction between the HTML/JS front-end and the Android system.
+## 📱 Project Name
 
-After many iterations and hours of debugging, the app finally came to life — successfully bringing the CherryTree experience to Android for the first time.
+**CherryTree Phone**
+
+> An experimental project exploring how a desktop-based note-taking tool can evolve into a mobile cross-platform experience.
+
+---
+
+## 🧩 Future Improvements
+
+* ✏️ Edit support for `.ctb` files
+* 🔄 Synchronization with desktop CherryTree
+* 🎨 Modern UI/UX redesign
+
+---
+
+## 📦 Installation
+
+📥 **Coming soon:** An installable **APK** version will be available here.
+
+---
+
+## ❤️ Acknowledgments
+
+Developed with **patience**, **AI assistance**, and a deep **love for open-source software**.
+
+---
+
+> *Made with ❤️ by [Your Name or GitHub Username]*
+> *Inspired by the original [CherryTree](https://www.giuspen.com/cherrytree/) project.*
