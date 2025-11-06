@@ -52,7 +52,3 @@ After multiple iterations and hours of debugging, the app finally came to life �
 
 ---
 
----
-
-> *Made with ❤️ by [Your Name or GitHub Username]*
-> *Inspired by the original [CherryTree](https://www.giuspen.com/cherrytree/) project.*
