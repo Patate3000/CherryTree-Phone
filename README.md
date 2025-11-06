@@ -50,24 +50,6 @@ After multiple iterations and hours of debugging, the app finally came to life �
 
 ---
 
-## 🧩 Future Improvements
-
-* ✏️ Edit support for `.ctb` files
-* 🔄 Synchronization with desktop CherryTree
-* 🎨 Modern UI/UX redesign
-
----
-
-## 📦 Installation
-
-📥 **Coming soon:** An installable **APK** version will be available here.
-
----
-
-## ❤️ Acknowledgments
-
-Developed with **patience**, **AI assistance**, and a deep **love for open-source software**.
-
 ---
 
 > *Made with ❤️ by [Your Name or GitHub Username]*
